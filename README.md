@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Samip Danuwar
 
+
 ![Cybersecurity Badge](https://img.shields.io/badge/Cybersecurity-Portfolio-blue?style=for-the-badge)
 ![Security+ Badge](https://img.shields.io/badge/CompTIA-Security+-green?style=for-the-badge)
 ![CySA+ Badge](https://img.shields.io/badge/CompTIA-CySA+-orange?style=for-the-badge)
@@ -36,15 +37,20 @@ Focused on hands-on labs, threat analysis, and building practical, real-world cy
 
 ## 🛠️ Projects & Labs
 
-### TryHackMe Labs
-- **Cyber Advent 2025** – Hands-on penetration testing, malware analysis, vulnerability scanning  
-- **Network Defense Labs** – Practical threat hunting & monitoring exercises  
+> Projects and labs are linked here for easy access. Update links as you complete new work.
 
-### Personal Projects
-- **Network Security Lab** – Home lab for practicing network security and monitoring  
+- **Network Security Lab** – Home lab for network monitoring and security exercises  
+  [Repo Link](https://github.com/SamipDanuwar/Network-Security-Lab)  
+
 - **Ethical Hacking Challenges** – CTF challenges and exploitation exercises  
+  [Repo Link](https://github.com/SamipDanuwar/Ethical-Hacking-Challenges)  
 
-*Projects are updated as certifications and labs are completed.*
+- **Cyber Advent 2025 Labs** – Hands-on penetration testing, malware analysis, vulnerability scanning  
+  [Repo Link](https://github.com/SamipDanuwar/Cyber-Advent-2025-Labs)  
+
+- **Vulnerability Assessment Scripts** – Python & Bash scripts for automated testing  
+  [Repo Link](https://github.com/SamipDanuwar/Vulnerability-Assessment)  
+
 
 ---
 
@@ -63,7 +69,8 @@ Focused on hands-on labs, threat analysis, and building practical, real-world cy
 
 ## 📈 GitHub Stats
 
-![Samip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamipDanuwar&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamipDanuwar&theme=radical)
 
 ---
 
