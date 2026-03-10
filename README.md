@@ -1,11 +1,5 @@
 # 👋 Hi, I'm Samip Danuwar
 
-
-![Cybersecurity Badge](https://img.shields.io/badge/Cybersecurity-Portfolio-blue?style=for-the-badge)
-![Security+ Badge](https://img.shields.io/badge/CompTIA-Security+-green?style=for-the-badge)
-![CySA+ Badge](https://img.shields.io/badge/CompTIA-CySA+-orange?style=for-the-badge)
-![CEH Badge](https://img.shields.io/badge/CEH-Planned-red?style=for-the-badge)
-
 ---
 
 ## 🧑‍💻 About Me
@@ -37,7 +31,7 @@ Focused on hands-on labs, threat analysis, and building practical, real-world cy
 
 ## 🛠️ Projects & Labs
 
-> Projects and labs are linked here for easy access. Update links as you complete new work.
+> Projects and labs are linked here for easy access.
 
 - **Network Security Lab** – Home lab for network monitoring and security exercises  
   [Repo Link](https://github.com/SamipDanuwar/Network-Security-Lab)  
@@ -67,12 +61,6 @@ Focused on hands-on labs, threat analysis, and building practical, real-world cy
 
 ---
 
-## 📈 GitHub Stats
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamipDanuwar&theme=radical)
-
----
 
 ## 📫 Connect
 
