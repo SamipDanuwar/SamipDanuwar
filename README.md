@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Samip Danuwar
 
-<img align="right" width="150" src="https://avatars.githubusercontent.com/u/132209650" alt="Samip Danuwar">
-
 ![Cybersecurity Badge](https://img.shields.io/badge/Cybersecurity-Portfolio-blue?style=for-the-badge)
 ![Security+ Badge](https://img.shields.io/badge/CompTIA-Security+-green?style=for-the-badge)
 ![CySA+ Badge](https://img.shields.io/badge/CompTIA-CySA+-orange?style=for-the-badge)
